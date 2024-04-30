@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Faredun Dodarov</h1>
-<img align="right" alt="Coding" width="100%" src="/images/animeted-img.gif"/>
+<img align="right" alt="Coding" height="500px" width="100%" src="/images/animeted-img.gif"/>
 <h3 align="center">A passionate frontend developer from Tajikistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afliyum&label=Profile%20views&color=0e75b6&style=flat" alt="afliyum" /> </p>
